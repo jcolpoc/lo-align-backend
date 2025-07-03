@@ -1,0 +1,5 @@
+DB_HOST=yamabiko.proxy.rlwy.net:17951
+DB_USER=root
+DB_PASSWORD=JyFgKCXWLXCIMQZIpWfoEhhAhmMOZVhd
+DB_NAME=railyway
+DB_PORT=3306
